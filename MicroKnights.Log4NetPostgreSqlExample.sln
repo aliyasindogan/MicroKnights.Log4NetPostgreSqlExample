@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log4NetExample", "Log4NetExample\Log4NetExample.csproj", "{27C1E0B1-F603-4CB4-959E-C5F537A0F55D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{04B443A0-D494-4C9F-8B54-88D38FDA61B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27C1E0B1-F603-4CB4-959E-C5F537A0F55D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27C1E0B1-F603-4CB4-959E-C5F537A0F55D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27C1E0B1-F603-4CB4-959E-C5F537A0F55D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27C1E0B1-F603-4CB4-959E-C5F537A0F55D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04B443A0-D494-4C9F-8B54-88D38FDA61B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04B443A0-D494-4C9F-8B54-88D38FDA61B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04B443A0-D494-4C9F-8B54-88D38FDA61B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04B443A0-D494-4C9F-8B54-88D38FDA61B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {524A53D1-C517-4840-9A53-2B6547440D44}
+	EndGlobalSection
+EndGlobal
