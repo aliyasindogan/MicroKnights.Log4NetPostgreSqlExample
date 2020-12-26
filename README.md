@@ -2,7 +2,7 @@
 
 ## Proje: 
 - .Net Core 3.1
-- .Net Standart 2.0 ve .Net Standart 2.1 'de denendi çalışıyor.
+- .Net Standart 2.0 ve .Net Standart 2.1 'de test edildi çalışıyor.
 
 **log4net.config dosyasında aşağıdaki düzenlenmeyi yapmayı unutmayın!**
 
