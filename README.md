@@ -2,6 +2,9 @@
 Example of Adding Record to PostgreSql Database with log4net
 
 Log4net ile PostgreSql Veritabanına Kayıt Ekleme Örneği
+##Proje:## 
+-.Net Core 3.1
+-.Net Standart 2.0 ve .Net Standart 2.1 'de denendi çalışıyor.
 
 **log4net.config dosyasında aşağıdaki düzenlenmeyi yapmayı unutmayın!**
 
