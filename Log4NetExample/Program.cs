@@ -9,6 +9,7 @@ namespace Log4NetExample
     {
         private static void Main(string[] args)
         {
+            //Migration da oluşturuken bu kodu aktifleştiriniz.
             //using (PostgreSqlDbContext context = new PostgreSqlDbContext())
             //{
             //    var list = context.log.ToList();
